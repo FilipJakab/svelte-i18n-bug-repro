@@ -1,0 +1,6 @@
+{
+	"common": {
+		"workingMessage": "Hello {name}",
+		"notWorkingMessage": "Hello '{name}'"
+	}
+}
